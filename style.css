@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+
+.my-input{
+    border-radius: 3px;
+    border-color: red;
+    background-color: aquamarine;
+}
